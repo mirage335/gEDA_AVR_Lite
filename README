@@ -8,6 +8,7 @@ find . -type f -exec sed -i s/YEAR/currentYEAR/g {} \;
 #Rename project files.
 mv ./Project ./newProjectName
 mv ./Project.sch ./newProjectName.sch
+rm ./Project.html
 
 #Remove CC0 license.
 rm ./license.html
