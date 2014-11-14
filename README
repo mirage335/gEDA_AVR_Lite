@@ -1,3 +1,6 @@
+#DEPRECATED
+Normal gEDA_AVR template is now more advanced.
+
 #Modification of the gEDA_Template, with an arduino chip prewired in the schematic.
 
 #Text substitutions. "DeveloperName", "YEAR", and "Project" appears in many places, specifically the copyright declarations and gsch2pcb directive.
